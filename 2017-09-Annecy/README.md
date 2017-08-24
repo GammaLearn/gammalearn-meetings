@@ -36,6 +36,7 @@ ___
 
 - Working environment and tools
     - Torch
+    - TensorFlow
     - Python
     - CTA_Analysis
 
@@ -46,6 +47,8 @@ ___
 - Defining list of first tasks
 
 
+
+**_Diner_**
 
 ### Day 3
 
