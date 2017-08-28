@@ -9,7 +9,7 @@ ___
 - Welcome presentation - Giovanni Lamanna, Thomas Vuillaume
 - Presentation of LAPP and MUST computing center, lab tour
 - Presentation of Orobix
-- Presentation of LISTIC
+- Presentation of LISTIC (TBC)
 
 
 ### Day 2
@@ -31,6 +31,8 @@ ___
 - Activities at LAPP
     - on-site discrimination and reconstruction
     - HPC approach
+    
+- MUST computing infrastructure
 
 - Deep learning methods
 
@@ -52,4 +54,4 @@ ___
 
 ### Day 3
 
-- 
+- Hands-on data
