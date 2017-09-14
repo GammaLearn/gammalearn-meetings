@@ -33,7 +33,7 @@ _Mikaël Jacquemond
 - 20:00 - Social Diner
 
 
-### Day 2**
+### Day 2
 
 - 09:00 - Scientific context (CTA collaboration, IACT observation method...)   
 _Thomas Vuillaume  
