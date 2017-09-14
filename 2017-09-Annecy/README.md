@@ -7,18 +7,20 @@ ___
 ### Day 1
 
 - 12:00 - Welcome lunch
-- 14:00 - Welcome presentation  
-Giovanni Lamanna, Thomas Vuillaume  
-25min
-- 14:20 - Presentation of LISTIC  
-(TBC)
-20min
+- 14:00 - Welcome address 
+_Thomas Vuillaume_  
+- 14:05 - Presentation of LAPP  
+_Giovanni Lamanna_  
+_20min_
+- 14:25 - Presentation of LISTIC  
+_(TBC)
+20min_
 - 14:45 - Presentation of Orobix  
-Luca Antiga  
-30min
-- 15:15 - PhD Thesis  
-Mikaël Jacquemond  
-10min
+_Luca Antiga  
+20min_
+- 15:05 - PhD Thesis  
+_Mikaël Jacquemond  
+20min_
 
 - 15:30 - Presentation of LAPP and MUST computing center, lab tour  
 1h
@@ -31,62 +33,60 @@ Mikaël Jacquemond
 - 20:00 - Social Diner
 
 
-### Day 2
-
-**_Talks_:**
+### Day 2**
 
 - 09:00 - Scientific context (CTA collaboration, IACT observation method...)   
-Thomas Vuillaume  
-20min  
+_Thomas Vuillaume  
+20min_  
 - 09:20 - Simulation & Data (MC simulations, data format, cameras...)  
-Thomas Vuillaume  
-20min  
+_Thomas Vuillaume  
+20min_  
 - 09:40 - Reconstruction methods (Hillas, template...)  
-Thomas Vuillaume  
-20min
+_Thomas Vuillaume  
+20min_
 - 10:00 - Activities at LAPP (on-site discrimination and reconstruction, HPC approach...)  
-Thomas Vuillaume (tbc)  
-20min
+_Thomas Vuillaume (tbc)  
+20min_
 
 - 10:30 - Coffee break  
 
 - 11:00 - Deep learning methods  
-Luca Antiga  
-20min  
+_Luca Antiga  
+20min_  
 
 - 11:40 - Overview of the tools and environments  
-Luca Antiga  
-20min  
+_Luca Antiga  
+20min_  
 
 - 12:30 - Lunch break  
 
 - 14:00 - Review of existing papers on deep learning applied to IACT  
-Luca Antiga  
-1h
+_Luca Antiga  
+1h_
 
 - 15:00 - General discussion on the methods  
-1h
+_1h_
 
 - 16:00 - Coffee break
 
 - 16:30 - Planning ahead  
-1h
+_1h_
 
 
 
 ### Day 3
 
 - 09:00 - Hands-on data and tools  
-Thomas Vuillaume  
+_Thomas Vuillaume  
 Luca Antiga  
-1h30
+1h30_
 
 - 10:30 - Coffee break
 
 - 11h00 - Hands-on data and tools 
-Thomas Vuillaume  
+_Thomas Vuillaume  
 Luca Antiga  
-1h30
+1h30_
 
 - 12:30 - Lunch break
 
