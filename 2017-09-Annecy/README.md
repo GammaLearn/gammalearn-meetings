@@ -43,7 +43,7 @@ _Thomas Vuillaume
 - 09:20 - Simulation & Data (MC simulations, data format, cameras...)  
 _Thomas Vuillaume  
 20min_  
-- 09:40 - Reconstruction methods (Hillas, template...)  
+- 09:40 - Reconstruction methods (Callibration, Hillas, template...)  
 _Thomas Vuillaume  
 20min_
 - 10:00 - Activities at LAPP (on-site discrimination and reconstruction, HPC approach...)  
@@ -63,7 +63,7 @@ _Luca Antiga
 - 12:30 - Lunch break  
 
 - 14:00 - Review of existing papers on deep learning applied to IACT  
-_Luca Antiga  
+_Giorgia Silvestri and Roberta Assi  
 1h_
 
 - 15:00 - General discussion on the methods  
