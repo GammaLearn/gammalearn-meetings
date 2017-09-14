@@ -19,11 +19,13 @@ _(TBC)
 _Luca Antiga  
 20min_
 - 15:05 - PhD Thesis  
-_Mikaël Jacquemond  
+_Mikaël Jacquemont  
 20min_
 
-- 15:30 - Presentation of LAPP and MUST computing center, lab tour  
-1h
+- 15:30 - Group picture
+
+- 15:40 - Presentation of LAPP and MUST computing center, lab tour  
+50min
 
 - 16:30 - Coffee break
 
