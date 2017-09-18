@@ -45,7 +45,10 @@ _Mikaël Jacquemont
 - 17:00 - administrative points, access, accounts
 
 
-- 20:00 - Social Diner
+- 20:00 - Social Diner  
+Restaurant Le Clocher  
+Directions: https://goo.gl/maps/8YtzLRsC2e32  
+(15 minutes walking from Hotel Novel)
 
 
 ### Day 2
