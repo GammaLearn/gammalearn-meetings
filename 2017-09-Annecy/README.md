@@ -1,6 +1,19 @@
 # GammaLearn kick-off meeting @LAPP - 2017 September 20-22
 
 ___
+Participants:
+
+- Luca Antiga
+- Roberta Assi
+- Giorgia Silvestri
+- Thomas Vuillaume
+- Gilles Maurin
+- Giovanni Lamanna
+- Mikaël Jacquemont
+- Alexandre Benoit
+- Patrick Lambert
+- Jayesh Wagg
+___
 
 ## Program
 
