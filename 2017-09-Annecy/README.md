@@ -6,6 +6,7 @@ Participants:
 - Luca Antiga
 - Roberta Assi
 - Giorgia Silvestri
+- Daniele Cortinovis
 - Thomas Vuillaume
 - Gilles Maurin
 - Giovanni Lamanna
