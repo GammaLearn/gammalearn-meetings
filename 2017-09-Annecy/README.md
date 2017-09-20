@@ -19,6 +19,8 @@ ___
 ## Program
 
 ### Day 1
+**Auditorium LAPP**
+
 
 - 12:00 - Welcome lunch
 - 14:00 - Welcome address 
@@ -27,7 +29,7 @@ _Thomas Vuillaume_
 _Giovanni Lamanna_  
 _20min_
 - 14:25 - Presentation of LISTIC  
-_(TBC)
+_Patrick Lambert & Alexandre Benoit  
 20min_
 - 14:45 - Presentation of Orobix  
 _Luca Antiga  
@@ -53,6 +55,7 @@ Directions: https://goo.gl/maps/8YtzLRsC2e32
 
 
 ### Day 2
+**Salle Semnoz**
 
 - 09:00 - Scientific context (CTA collaboration, IACT observation method...)   
 _Thomas Vuillaume  
@@ -94,6 +97,7 @@ _1h_
 
 
 ### Day 3
+**Salle Semnoz**
 
 - 09:00 - Hands-on data and tools  
 _Thomas Vuillaume  
