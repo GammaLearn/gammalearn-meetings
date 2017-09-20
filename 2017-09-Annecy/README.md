@@ -28,9 +28,12 @@ _Thomas Vuillaume_
 - 14:05 - Presentation of LAPP  
 _Giovanni Lamanna_  
 _20min_
-- 14:25 - Presentation of LISTIC  
+- 14:25 - [Presentation of LISTIC](Day1/LISTIC_patrick_lambert.ppt)  
 _Patrick Lambert & Alexandre Benoit  
-20min_
+10min_
+- 14:35 - [LISTIC deep learning](Day1/LISTIC_Alexandre_Benoit.pdf)
+_Alexandre Benoit  
+10min_  
 - 14:45 - Presentation of Orobix  
 _Luca Antiga  
 20min_
