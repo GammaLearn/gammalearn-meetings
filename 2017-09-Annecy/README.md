@@ -29,7 +29,7 @@ _Thomas Vuillaume_
 _Giovanni Lamanna_  
 _20min_
 - 14:25 - Presentation of LISTIC  
-_Patrick Lambert & Alexandre Benoit
+_Patrick Lambert & Alexandre Benoit  
 20min_
 - 14:45 - Presentation of Orobix  
 _Luca Antiga  
